@@ -79,5 +79,6 @@ border-radius: .5%;
   /* For a screen < 540px, this CSS will be read */
   .container {
     width: 300px;
+    font-size: 10px;
   }
 }
